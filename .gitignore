@@ -2,5 +2,6 @@
 /*/
 
 !.gitignore
+!README.md
 !/Assets/
 !/ProjectSettings/
