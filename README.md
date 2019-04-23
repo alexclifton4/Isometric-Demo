@@ -3,6 +3,10 @@ Simple demonstration of an isometric (or "2.5D") game world, and saving mechanis
 
 This does not use Unity's isometric grid or file serialisation functions, as this is about implementing those myself, not using Unity.
 
+## Demo
+This demo shows creating an empty map, changing the tile types and adding buildings, and finally loading a saved map.
+![](demo.gif)
+
 ## Save format
 The map file is compressed using the Deflate algorithm, and is saved in the persistentDataPath
 
